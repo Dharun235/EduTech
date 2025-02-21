@@ -11,12 +11,12 @@ A student-driven initiative tackling real challenges in education through techno
 ✅ Accessibility & inclusion – Solutions for differently-abled learners and underserved communities.  
 
 ### 🌍 Why This Matters?
-📢 By students, for students – Solving real problems we face in learning.
-🚀 Free & open-source – No paywalls, accessible to all.
-🤝 Community-driven – Built for collaboration and impact.
+📢 By students, for students – Solving real problems we face in learning.  
+🚀 Free & open-source – No paywalls, accessible to all.  
+🤝 Community-driven – Built for collaboration and impact.  
 
 ### 💡 Get Involved
-🎯 Contribute – Developers, educators, and students welcome!
-📢 Share & implement – Use these tools in classrooms, self-study, and beyond.
+🎯 Contribute – Developers, educators, and students welcome!  
+📢 Share & implement – Use these tools in classrooms, self-study, and beyond.  
 
 📌 Revolutionizing education, one project at a time! 🚀
