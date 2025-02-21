@@ -5,10 +5,10 @@ Open-source projects transforming education with AI, automation, and gamificatio
 A student-driven initiative tackling real challenges in education through technology. This repo features scalable, open-source tools designed for students, educators, and institutions worldwide.
 
 ### 🔍 Focus Areas
-✅ AI-powered learning – Study assistants, automated note-taking, and personalized tutors.
-✅ EdTech automation – Tools to simplify grading, content generation, and lesson planning.
-✅ Gamified learning – Interactive STEM experiments, quizzes, and engagement boosters.
-✅ Accessibility & inclusion – Solutions for differently-abled learners and underserved communities.
+✅ AI-powered learning – Study assistants, automated note-taking, and personalized tutors.  
+✅ EdTech automation – Tools to simplify grading, content generation, and lesson planning.  
+✅ Gamified learning – Interactive STEM experiments, quizzes, and engagement boosters.  
+✅ Accessibility & inclusion – Solutions for differently-abled learners and underserved communities.  
 
 ### 🌍 Why This Matters?
 📢 By students, for students – Solving real problems we face in learning.
