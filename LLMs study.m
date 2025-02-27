@@ -110,7 +110,7 @@ Running LLMs requires **powerful GPUs** and **high memory consumption**.
 
 ### Fine-Tuning vs Prompt Engineering
 
-- **Fine-Tuning** → Adjust model weights with custom datasets.
+- **Fine-Tuning** → Adjust model weights with custom datasets. More on https://www.geeksforgeeks.org/fine-tuning-large-language-model-llm/
 - **Prompt Engineering** → Craft better inputs to improve output quality.
 
 ### Running LLMs on Edge Devices
