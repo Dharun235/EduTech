@@ -17,7 +17,7 @@ A **Large Language Model (LLM)** is an artificial intelligence system designed t
 
 ### a. Tokenization
 
-LLMs break text into smaller pieces called **tokens** (words, subwords, or characters).
+LLMs break text into smaller pieces called **tokens** (words, subwords, or characters). (More on) [https://tokenizationserviceprovider.com/tokenization-methods-types-techniques-and-applications-explained/#Introduction_to_Tokenization_Methods]
 
 #### Example:
 
