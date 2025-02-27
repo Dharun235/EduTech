@@ -17,7 +17,7 @@ A **Large Language Model (LLM)** is an artificial intelligence system designed t
 
 ### a. Tokenization
 
-LLMs break text into smaller pieces called **tokens** (words, subwords, or characters). (More on) [https://tokenizationserviceprovider.com/tokenization-methods-types-techniques-and-applications-explained/#Introduction_to_Tokenization_Methods]
+LLMs break text into smaller pieces called **tokens** (words, subwords, or characters). More on - https://tokenizationserviceprovider.com/tokenization-methods-types-techniques-and-applications-explained/#Introduction_to_Tokenization_Methods
 
 #### Example:
 
@@ -28,7 +28,7 @@ Tokens: ["Hello", "world", "!"]
 
 ### b. Embeddings
 
-Tokens are converted into numerical representations (vectors) to capture relationships between words.
+Tokens are converted into numerical representations (vectors) to capture relationships between words. More on - https://www.geeksforgeeks.org/word-embeddings-in-nlp/
 
 #### Example:
 
@@ -43,6 +43,7 @@ Most LLMs are based on **Transformers** (introduced in *"Attention is All You Ne
 - **Self-Attention** → Determines the importance of words in a sentence.
 - **Positional Encoding** → Keeps track of word order.
 - **Multi-Head Attention** → Identifies multiple relationships within the text.
+More on - https://www.geeksforgeeks.org/exploring-the-technical-architecture-behind-large-language-models/
 
 ### d. Training Process
 
@@ -133,18 +134,6 @@ Instead of using cloud-based APIs, LLMs can be run locally on:
 
 ---
 
-## 8. Next Steps
-
-- Experiment with **Open-Source LLMs** (Llama, Mistral, Falcon).
-- Use **LLM APIs** (OpenAI, Hugging Face, Together AI).
-- Train a small Transformer model from scratch.
-- Deploy an LLM on **Pepper Robot**.
-
----
-
 ## Conclusion
 
 LLMs are revolutionizing AI, enabling advanced natural language understanding and generation. Whether you’re using them for chatbots, robotics, or research, mastering LLMs opens up endless possibilities.
-
-🚀 **Want to go deeper? Let’s dive into a specific topic next!**
-
